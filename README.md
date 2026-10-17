@@ -83,3 +83,5 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 -   `npm run dev`: Starts the API standalone (`standalone.ts`), independent of Vite, with hot reload.
 -   `npm run start`: Same, without watch mode.
 -   `npm run typecheck`: Runs the TypeScript compiler to check for type errors.
+
+<!-- evening.ps1 test line - safe to delete -->
